@@ -1,4 +1,4 @@
-# Learning Selenium Concept
+# Selenium Concept
 
 
 Programs containing Selenium Learning Resource.
