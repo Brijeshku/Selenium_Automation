@@ -4,25 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25837e21-4c3e-42cb-bbc9-9f85117063e5" name="Changes" comment="Selenium  Browser launch and login functionality">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Login2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Project1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Proxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Quit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Selenium04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Selenium05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Selenium06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Selenium07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Selenium08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Selenium09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/SeleniumTestng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Seleniummultibrowsers08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/extensions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/navigate.java" afterDir="false" />
+    <list default="true" id="25837e21-4c3e-42cb-bbc9-9f85117063e5" name="Changes" comment="Project#1">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Selenium010.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Selenium09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Selenium09.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,25 +49,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Login.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Login2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Quit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Selenium01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Selenium07.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Selenium08.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG.Project1.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Selenium06.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SeleniumTestng.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/brije/IdeaProjects/Selenium Automation/src/test/java/com/thetestingacademy/ex_Selenium&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Login.executor": "Run",
+    "Application.Login2.executor": "Run",
+    "Application.Quit.executor": "Run",
+    "Application.Selenium01.executor": "Run",
+    "Application.Selenium07.executor": "Run",
+    "Application.Selenium08.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.Project1.executor": "Run",
+    "TestNG.Selenium06.executor": "Run",
+    "TestNG.Selenium09.executor": "Run",
+    "TestNG.SeleniumTestng.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/brije/IdeaProjects/Selenium Automation/src/test/java/com/thetestingacademy/ex_Selenium"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\brije\IdeaProjects\Selenium Automation\src\test\java\com\thetestingacademy\ex_Selenium" />
@@ -91,20 +77,7 @@
       <recent name="com.thetestingacademy.ex_Selenium" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_Selenium.Login" />
-      <module name="SeleniumAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_Selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Selenium010">
     <configuration name="Quit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_Selenium.Quit" />
       <module name="SeleniumAutomation" />
@@ -144,7 +117,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium06" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium010" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumAutomation" />
       <extension name="coverage">
         <pattern>
@@ -153,7 +126,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_Selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_Selenium.Selenium06" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_Selenium.Selenium010" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium09" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex_Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_Selenium" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_Selenium.Selenium09" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -163,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Selenium010" />
+        <item itemvalue="TestNG.Selenium09" />
         <item itemvalue="Application.Quit" />
         <item itemvalue="Application.Seleniummultibrowsers08" />
         <item itemvalue="Application.Selenium07" />
-        <item itemvalue="TestNG.Selenium06" />
-        <item itemvalue="Application.Login" />
       </list>
     </recent_temporary>
   </component>
@@ -212,12 +202,21 @@
       <option name="project" value="LOCAL" />
       <updated>1729195063020</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Project#1">
+      <option name="closed" value="true" />
+      <created>1730118870010</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730118870010</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Selenium  Browser launch" />
     <MESSAGE value="Selenium  Browser launch and login functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selenium  Browser launch and login functionality" />
+    <MESSAGE value="Project#1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project#1" />
   </component>
 </project>
