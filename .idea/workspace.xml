@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25837e21-4c3e-42cb-bbc9-9f85117063e5" name="Changes" comment="Project#1 Partial text link">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Selenium011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/opencart.java" afterDir="false" />
+    <list default="true" id="25837e21-4c3e-42cb-bbc9-9f85117063e5" name="Changes" comment="Project#1 Partial text link -Erorr message trial">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Dropdownhandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Ebay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Expireprogramm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Seleniumflip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Trip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/ex_SVG/Project1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/ex_SVG/Project2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/fluentwait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/inputtype.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +59,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Alerts.executor": "Run",
+    "Application.Dropdownhandles.executor": "Run",
     "Application.Login.executor": "Run",
     "Application.Login2.executor": "Run",
     "Application.Quit.executor": "Run",
@@ -58,15 +68,23 @@
     "Application.Selenium011.executor": "Run",
     "Application.Selenium07.executor": "Run",
     "Application.Selenium08.executor": "Run",
+    "Application.inputtype.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.Ebay.executor": "Run",
+    "TestNG.Expireprogramm.executor": "Run",
     "TestNG.Project1.executor": "Run",
+    "TestNG.Project2.executor": "Run",
+    "TestNG.Project2.test_svg_india_search_click.executor": "Debug",
     "TestNG.Selenium010.executor": "Run",
     "TestNG.Selenium011.executor": "Run",
     "TestNG.Selenium06.executor": "Run",
     "TestNG.Selenium09.executor": "Run",
     "TestNG.SeleniumTestng.executor": "Run",
+    "TestNG.Seleniumflip.executor": "Run",
+    "TestNG.Trip.executor": "Run",
+    "TestNG.fluentwait.executor": "Run",
     "TestNG.opencart.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -108,7 +126,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium010" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Ebay" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumAutomation" />
       <extension name="coverage">
         <pattern>
@@ -117,7 +135,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_Selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_Selenium.Selenium010" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_Selenium.Ebay" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -125,7 +143,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium09" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Seleniumflip" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumAutomation" />
       <extension name="coverage">
         <pattern>
@@ -134,7 +152,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_Selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_Selenium.Selenium09" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_Selenium.Seleniumflip" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -161,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Seleniumflip" />
+        <item itemvalue="TestNG.Ebay" />
+        <item itemvalue="Application.Quit" />
         <item itemvalue="Application.Selenium011" />
         <item itemvalue="TestNG.opencart" />
-        <item itemvalue="TestNG.Selenium010" />
-        <item itemvalue="TestNG.Selenium09" />
-        <item itemvalue="Application.Quit" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730136661565</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Project#1 Partial text link -Erorr message trial">
+      <option name="closed" value="true" />
+      <created>1730140548829</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730140548829</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -234,7 +260,8 @@
     <MESSAGE value="Selenium  Browser launch and login functionality" />
     <MESSAGE value="Project#1" />
     <MESSAGE value="Project#1 Partial text link" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project#1 Partial text link" />
+    <MESSAGE value="Project#1 Partial text link -Erorr message trial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project#1 Partial text link -Erorr message trial" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -243,6 +270,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Selenium09.java</url>
           <line>24</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/ex_SVG/Project2.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
