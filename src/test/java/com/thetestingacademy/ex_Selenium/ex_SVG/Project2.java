@@ -40,8 +40,8 @@ public class Project2 {
         List<WebElement> states = driver.findElements(By.xpath("//*[local-name()='svg']/*[local-name()='g'][7]/*[local-name()='g']/*[local-name()='g']/*[local-name()='path']"));
         for(WebElement state:states){
             System.out.println(state.getAttribute("aria-label"));
-            if(state.getAttribute("aria-label").contains("Tripura");
-            state.click();
+//            if(state.getAttribute("aria-label").contains("Tripura");
+//            state.click();
         }
 
 

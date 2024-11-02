@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25837e21-4c3e-42cb-bbc9-9f85117063e5" name="Changes" comment="Project#1 Partial text link -Erorr message trial">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Dropdownhandles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Ebay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Expireprogramm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Seleniumflip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Trip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/ex_SVG/Project1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/ex_SVG/Project2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/fluentwait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/inputtype.java" afterDir="false" />
+    <list default="true" id="25837e21-4c3e-42cb-bbc9-9f85117063e5" name="Changes" comment="SVG and waits">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Dom/Project1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Dom/webtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Task/Applito.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/ex_SVG/Project2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/ex_SVG/Project2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +66,7 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.Applito.executor": "Run",
     "TestNG.Ebay.executor": "Run",
     "TestNG.Expireprogramm.executor": "Run",
     "TestNG.Project1.executor": "Run",
@@ -86,6 +81,7 @@
     "TestNG.Trip.executor": "Run",
     "TestNG.fluentwait.executor": "Run",
     "TestNG.opencart.executor": "Run",
+    "TestNG.webtable.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/brije/IdeaProjects/Selenium Automation/src/test/java/com/thetestingacademy/ex_Selenium"
@@ -160,16 +156,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="opencart" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="webtable" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_Selenium.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex_Selenium.Dom.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_Selenium" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_Selenium.opencart" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_Selenium.Dom" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_Selenium.Dom.webtable" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -179,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Quit" />
+        <item itemvalue="TestNG.webtable" />
         <item itemvalue="TestNG.Seleniumflip" />
         <item itemvalue="TestNG.Ebay" />
-        <item itemvalue="Application.Quit" />
         <item itemvalue="Application.Selenium011" />
-        <item itemvalue="TestNG.opencart" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730140548829</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="SVG and waits">
+      <option name="closed" value="true" />
+      <created>1730316990494</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730316990495</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -261,7 +265,8 @@
     <MESSAGE value="Project#1" />
     <MESSAGE value="Project#1 Partial text link" />
     <MESSAGE value="Project#1 Partial text link -Erorr message trial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project#1 Partial text link -Erorr message trial" />
+    <MESSAGE value="SVG and waits" />
+    <option name="LAST_COMMIT_MESSAGE" value="SVG and waits" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -270,11 +275,6 @@
           <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Selenium09.java</url>
           <line>24</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/ex_SVG/Project2.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
