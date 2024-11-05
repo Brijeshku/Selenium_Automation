@@ -50,7 +50,7 @@ public class Applito {
             WebElement clickButton=driver.findElement(By.id("log-in"));
             clickButton.click();
             //Calculate the total amount spent this month.
-            String currentMonth = LocalDate.now().getMonth().name().substring(0, 3);
+            String currentMonth =LocalDate.now().getMonth().name().substring(0, 3);
             double totalAmount = 1996.22;
 
             WebElement[] rows = new WebElement[0];

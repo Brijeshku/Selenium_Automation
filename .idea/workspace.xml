@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25837e21-4c3e-42cb-bbc9-9f85117063e5" name="Changes" comment="SVG and waits">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Dom/Project1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Dom/webtable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Task/Applito.java" afterDir="false" />
+    <list default="true" id="25837e21-4c3e-42cb-bbc9-9f85117063e5" name="Changes" comment="Total amount for the current months &#10;Problem statement #!">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Dom/table4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Dom/webtable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Dom/webtable3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/ex_SVG/Project2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/ex_SVG/Project2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Task/Applito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Task/Applito.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -81,10 +82,14 @@
     "TestNG.Trip.executor": "Run",
     "TestNG.fluentwait.executor": "Run",
     "TestNG.opencart.executor": "Run",
+    "TestNG.table4.executor": "Run",
     "TestNG.webtable.executor": "Run",
+    "TestNG.webtable2.executor": "Run",
+    "TestNG.webtable3.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/brije/IdeaProjects/Selenium Automation/src/test/java/com/thetestingacademy/ex_Selenium"
+    "last_opened_file_path": "C:/Users/brije/IdeaProjects/Selenium Automation/src/test/java/com/thetestingacademy/ex_Selenium",
+    "settings.editor.selected.configurable": "io.qameta.allure.idea.settings.AppSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -256,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730316990495</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Total amount for the current months &#10;Problem statement #!">
+      <option name="closed" value="true" />
+      <created>1730568075055</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730568075055</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -266,7 +279,8 @@
     <MESSAGE value="Project#1 Partial text link" />
     <MESSAGE value="Project#1 Partial text link -Erorr message trial" />
     <MESSAGE value="SVG and waits" />
-    <option name="LAST_COMMIT_MESSAGE" value="SVG and waits" />
+    <MESSAGE value="Total amount for the current months &#10;Problem statement #!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Total amount for the current months &#10;Problem statement #!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
