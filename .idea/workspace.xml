@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25837e21-4c3e-42cb-bbc9-9f85117063e5" name="Changes" comment="Total amount for the current months &#10;Problem statement #!">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Dom/table4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Dom/webtable2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Dom/webtable3.java" afterDir="false" />
+    <list default="true" id="25837e21-4c3e-42cb-bbc9-9f85117063e5" name="Changes" comment="Web Tables">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Actions/Action1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Actions/spicejet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Task/Proxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Task/katalon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Vwo/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Vwo/TitleURL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Task/Applito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_Selenium/Task/Applito.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +65,17 @@
     "Application.Selenium011.executor": "Run",
     "Application.Selenium07.executor": "Run",
     "Application.Selenium08.executor": "Run",
+    "Application.Verifiedmessage.executor": "Run",
     "Application.inputtype.executor": "Run",
+    "Application.katalon.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.Action1.executor": "Run",
     "TestNG.Applito.executor": "Run",
     "TestNG.Ebay.executor": "Run",
     "TestNG.Expireprogramm.executor": "Run",
+    "TestNG.Login.executor": "Run",
     "TestNG.Project1.executor": "Run",
     "TestNG.Project2.executor": "Run",
     "TestNG.Project2.test_svg_india_search_click.executor": "Debug",
@@ -79,9 +85,11 @@
     "TestNG.Selenium09.executor": "Run",
     "TestNG.SeleniumTestng.executor": "Run",
     "TestNG.Seleniumflip.executor": "Run",
+    "TestNG.TitleURL.executor": "Run",
     "TestNG.Trip.executor": "Run",
     "TestNG.fluentwait.executor": "Run",
     "TestNG.opencart.executor": "Run",
+    "TestNG.spicejet.executor": "Run",
     "TestNG.table4.executor": "Run",
     "TestNG.webtable.executor": "Run",
     "TestNG.webtable2.executor": "Run",
@@ -269,7 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730568075055</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Web Tables">
+      <option name="closed" value="true" />
+      <created>1730828914694</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1730828914694</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -280,7 +296,8 @@
     <MESSAGE value="Project#1 Partial text link -Erorr message trial" />
     <MESSAGE value="SVG and waits" />
     <MESSAGE value="Total amount for the current months &#10;Problem statement #!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Total amount for the current months &#10;Problem statement #!" />
+    <MESSAGE value="Web Tables" />
+    <option name="LAST_COMMIT_MESSAGE" value="Web Tables" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
